@@ -1,0 +1,7 @@
+{
+  "name": "Cyberpiensa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
